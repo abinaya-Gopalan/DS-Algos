@@ -1,4 +1,3 @@
-#Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 class Solution {
     public int removeElement(int[] nums, int val) {
         int j = 0;
